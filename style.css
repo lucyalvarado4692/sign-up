@@ -1,0 +1,45 @@
+body{
+    width: 50vw;
+    height: 60vh;
+    padding: 2vw;
+    margin: 5vw auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    
+}
+.formulario{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2vw;
+    margin: 2vw;
+    border-radius: 2vw 2vw;
+}
+form {
+    line-height: 30px;
+  }
+h2 {
+    text-align: center;
+}
+
+#imagen{
+    height: 80px;
+    display: block;
+    margin: auto;
+
+}
+form section{
+    text-align: start;
+    
+}
+.first input{
+    border-radius: 2vw 2vw;
+    margin: 0 1vw;
+}
+
